@@ -2,11 +2,11 @@
 # Airbnb Project
 > This is a sample Airbnb-like project built with the Laravel framework. It includes features such as:
 
--Property listings
--Booking system
--User accounts
--Reviews and ratings
--Admin panel for managing properties and bookings
+- Property listings
+- Booking system
+- User accounts
+- Reviews and ratings
+- Admin panel for managing properties and bookings
 
 ## Getting started
 
